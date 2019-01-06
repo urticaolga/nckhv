@@ -13,6 +13,9 @@ my @all = qw!
     news/novyj_detektor_lzhi.html   
     news/otmenyaetsya_ustanovka_znaka.html   
     news/srok_uplaty_shtrafa.html   
+    news/vnutrirossiyskiy_rouming.html
+    news/normy_zhilischnogo_kodeksa.html   
+    news/uvelichena_summa_dolga.html   
 !;
 
 
