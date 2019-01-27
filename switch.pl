@@ -15,7 +15,10 @@ my @all = qw!
     news/srok_uplaty_shtrafa.html   
     news/vnutrirossiyskiy_rouming.html
     news/normy_zhilischnogo_kodeksa.html   
-    news/uvelichena_summa_dolga.html   
+    news/uvelichena_summa_dolga.html 
+    news/verchovnyj_sud_razreshil.html  
+    news/verchovnyj_sud_razaysnil.html  
+    news/napravlyat_pretenzii.html  
 !;
 
 
