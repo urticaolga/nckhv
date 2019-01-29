@@ -19,6 +19,9 @@ my @all = qw!
     news/verchovnyj_sud_razreshil.html  
     news/verchovnyj_sud_razaysnil.html  
     news/napravlyat_pretenzii.html  
+    news/sudebnye_pristavy.html
+    news/avtovladeltsev_obyazhut.html  
+
 !;
 
 
