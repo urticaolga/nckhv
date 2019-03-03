@@ -21,6 +21,9 @@ my @all = qw!
     news/napravlyat_pretenzii.html  
     news/sudebnye_pristavy.html
     news/avtovladeltsev_obyazhut.html  
+    news/pravo_trebovaniya.html  
+    news/vosstanovlenie_srokov.html  
+    news/trudovyh_knizhek.html  
 
 !;
 
